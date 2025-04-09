@@ -17,42 +17,42 @@ class TestUrbanRoutes:
 
         print("function created for set route")
 
-    pass
+        pass
 
     # Add in S8
     def test_select_plan(self):
 
         print("function created for select plan")
 
-    pass
+        pass
 
     # Add in S8
     def test_fill_phone_number(self):
 
         print("function created for fill phone number")
 
-    pass
+        pass
 
     # Add in S8
     def test_fill_card(self):
 
         print("function created for fill card")
 
-    pass
+        pass
 
     # Add in S8
     def test_comment_for_driver(self):
 
         print("function created for comment for driver")
 
-    pass
+        pass
 
     # Add in S8
     def test_order_blanket_and_handkerchiefs(self):
 
         print("function created for order blanket and handkerchiefs")
 
-    pass
+        pass
 
     # Add in S8
     def test_order_2_ice_creams(self):
@@ -60,12 +60,12 @@ class TestUrbanRoutes:
             # Add in S8
             pass
 
-    print("function created for order 2 ice creams")
-    pass
+        print("function created for order 2 ice creams")
+        pass
 
     # Add in S8
     def test_car_search_model_appears(self):
 
         print("function created for car search model appears")
 
-    pass
+        pass
